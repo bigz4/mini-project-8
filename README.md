@@ -18,6 +18,15 @@ pip instal -r requirements.txt
 
 dataset is automatically downloaded when runnning the notebook
 
+## How to run the code
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/bigz4/mini-project-8
+```
+
+2. Run all cells in miniv111.ipynb
 
 ## Experimental Results
 | experiment | IoU_background | IoU_flood | mIoU | Dice_flood |
@@ -30,6 +39,6 @@ dataset is automatically downloaded when runnning the notebook
 ![Sample prediction visualizations](figures/best_final_6_examples.png)
 
 ## Team member contributions
-** Vibhor Malik ** - Jupyter notebook, Final report, ReadME, Github
-** Brendan Zapf ** - Jupyter notebook, Final report, ReadME, Github
+ * ** Vibhor Malik ** - Jupyter notebook, Final report, ReadME, Github
+ * ** Brendan Zapf ** - Jupyter notebook, Final report, ReadME, Github
 
