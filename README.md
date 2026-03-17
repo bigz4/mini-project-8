@@ -13,7 +13,7 @@ This project builds a U-Net-based semantic segmentation pipeline to identify flo
 Run this command to install all dependancies 
 
 ```bash
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 dataset is automatically downloaded when runnning the notebook
